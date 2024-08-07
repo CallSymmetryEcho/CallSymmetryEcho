@@ -6,7 +6,7 @@
 
 #### also welcome to check my <h4 style= " color:orange;">Home Page</h4>
 
-🔆 https://binlian.me/
+🔆 https://bin-lian.me/
 
 && https://killerlb-ustc.github.io/
 
