@@ -1,4 +1,3 @@
-# Bin Lian
 
 ## 👋 About Me
 I'm a researcher at the intersection of Materials Science, Robotics, and Artificial Intelligence. My work focuses on developing intelligent systems for materials discovery and automated experimentation.
