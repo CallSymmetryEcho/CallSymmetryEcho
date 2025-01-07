@@ -23,7 +23,7 @@ I'm a researcher at the intersection of Materials Science, Robotics, and Artific
 
 ## 🔗 Connect With Me
 - 🌐 Personal Website: [bin-lian.me](https://bin-lian.me/)
-- 📚 Academic Page: [GitHub.io](https://killerlb-ustc.github.io/)
+- 📚 Blog Page: [GitHub.io](https://blog.bin-lian.me/)
 - 📧 Email: bin_lian [at] UTmail
 
 ## 🚀 Featured Projects
