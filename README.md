@@ -18,10 +18,10 @@ I'm a Ph.D. candidate at UT Austin, and I finished my degree in Materials Physic
 ### A few projects I'm happy with
 
 - **A tomographic 3D printer (USTC).** A light-curing printer based on the volumetric printing work of Kelly et al. (*Science*, 2019). It led to my first paper.
-- **A hydrogel-sensor glove.** A wireless glove whose hydrogel strain sensors read finger motion. A CNN-LSTM decoder turns that motion into commands for an electric tweezer, so a hand can steer a nanowire directly. Using both hands, it supports multi-scale manipulation, from fine micro-scale moves to travel over about 1 cm.
-- **An sEMG wristband.** With a small team, I built an 8-channel muscle-signal and IMU band on a Jetson Orin Nano that controls a computer and a drone with hand gestures. I led the engineering work and wrote the gesture decoders.
-- **AlchemArm.** A 3D-printed four-axis SCARA arm for the hydrofluoric-acid step of metal-assisted etching. It has dipped and retrieved its first chip carrier in HF inside a fume hood.
-- **A reinforcement-learning controller for electric tweezers.** I wrote a Langevin digital twin of a nanowire trap and trained policies in it. In simulation, a learned planner reached the goal around obstacles in 66% of layouts, against 4% for PID. Moving it onto the real setup is next.
+- **A hydrogel-sensor glove.** A wireless glove that lets a hand steer an electric tweezer directly, for manipulating nanowires across scales.
+- **An sEMG wristband.** With a small team, I built a muscle-signal wristband that controls a computer and a drone with hand gestures. I led the engineering work and wrote the gesture decoders.
+- **AlchemArm.** A 3D-printed robotic arm that takes over a hazardous wet-chemistry step in the lab.
+- **A reinforcement-learning controller for electric tweezers.** Control policies for moving nanowires, trained in a physics-based simulator of the trap.
 
 The code for these is not public yet.
 
